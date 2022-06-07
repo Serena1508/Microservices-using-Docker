@@ -19,8 +19,10 @@ For instance, if a chalet has four bedrooms but only one of them has a toilet, t
 
 When compared to virtual machines, Docker has a number of advantages. One of them is Docker, which is lighter than virtual machines but still provides the same functionality. In addition, as compared to virtual machines, Docker consumes less RAM and requires a faster application boot-up time. Apart from that, Docker has a slightly higher efficiency because it is freely accessible across multiple platforms. Finally, the Docker environment provides superior and consistent performance.
 
-In order to understand how Docker works, we first need to go into Docker Engine, which is one of the main part of Docker. It is a base engine installed on the host machine and being used to build and run containers(applications) using docker components. This is the image of docker engine:
+To understand how Docker works, we must first look at Docker Engine, which is one of the most important components of Docker. It is a base engine that is installed on the host machine and is used to construct and run docker containers (applications). This is an image of the Docker Engine:
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/93330469/172448562-30be5c47-0f4d-4cbf-8e52-238aca679712.jpg)
+
+The Docker Client and Server is the first component to look at while looking at the Docker Components. It's a service that sends a command to the containers after it's been translated using REST API (server). The server will examine the client's request and the operating system's answer. This is for creating or managing the app. The next step is to create Docker Containers using Docker Images, which is a template with instructions. Docker Hub or Repository will be used to store the images. The Docker Container, which is a standalone, executable software application, is the third component. The packages comprise applications and their dependencies that can share the same operating system and execute numerous docker containers in the same infrastructure.
 
 ![photo1654622504](https://user-images.githubusercontent.com/93330469/172448337-3842bce3-9643-4764-99c4-ab2250c4caf1.jpeg)
