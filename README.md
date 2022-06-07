@@ -9,7 +9,7 @@
 
 --------
 
-***1. INTRODUCTION***
+***INTRODUCTION***
 
 Before Docker, developers and testers in the programming industry had a difficult time transporting data between environments. This presents a number of challenges as well as drawbacks for the developer and tester. How to overcome this problem? 
 
@@ -29,7 +29,11 @@ The Docker Registry, which is an open source server-side service, is the last bu
 
 ![photo1654622504](https://user-images.githubusercontent.com/93330469/172448337-3842bce3-9643-4764-99c4-ab2250c4caf1.jpeg)
 
-***2. Installation of Docker & Procedures***
+***Installation of Docker & Procedures***
 
 A PHP application requires the installation of many environments in order to run the PHP scripts. One of the servers that will allow us to execute the PHP-driven website is MYSQL Database. Each group of applications can be set up to run as a microservice using Docker. The single YML file configures the MYSQL database and PHP Apache, as well as isolating all of the services required by the application.
 
+In order to install Docker, these are the steps and procedures that need to be done in a Microsoft operating system;
+
+1. Install Docker on Windows 10
+- Go to the most recent version of Docker from the official website (https://www.docker.com/products/docker-desktop/)
