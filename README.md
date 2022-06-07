@@ -31,3 +31,5 @@ The Docker Registry, which is an open source server-side service, is the last bu
 
 ***2. Installation of Docker & Procedures***
 
+A PHP application requires the installation of many environments in order to run the PHP scripts. One of the servers that will allow us to execute the PHP-driven website is MYSQL Database. Each group of applications can be set up to run as a microservice using Docker. The single YML file configures the MYSQL database and PHP Apache, as well as isolating all of the services required by the application.
+
