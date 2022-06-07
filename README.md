@@ -35,5 +35,13 @@ A PHP application requires the installation of many environments in order to run
 
 In order to install Docker, these are the steps and procedures that need to be done in a Microsoft operating system;
 
-1. Install Docker on Windows 10
-- Go to the most recent version of Docker from the official website (https://www.docker.com/products/docker-desktop/)
+**1. Install Docker on Windows 10**
+
+- Go to the most recent version of Docker and download from the official website (https://www.docker.com/products/docker-desktop/)
+- Install Docker Desktop by using the installer downloaded by previous step and allow the installer to start the installation.
+- After the installation completed, press the **close button**.
+- Execute the Docker Desktop using desktop shortcut created and it might show the message to install the WSL update.
+- Click the download link and it will open the Microsoft Page showing options to download it.
+- Click the link to download the MSI package of the WSL update. Then, execute the package by double-clicking it.
+- After the installation completed, click the Restart Button to restart Docker and it will shoe the **Welcome Screen**.
+- The installation of Docker Desktop is completed.
