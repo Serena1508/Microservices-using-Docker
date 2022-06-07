@@ -64,7 +64,6 @@ In order to install Docker, these are the steps and procedures that need to be d
 
 
 
-
 **2. Install PHP and Apache Web Server**
 
 - Create a directory to store the new project files. To create the file, type **docker-compose.yml** at the root of the new project.
