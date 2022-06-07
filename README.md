@@ -19,3 +19,8 @@ For instance, if a chalet has four bedrooms but only one of them has a toilet, t
 
 When compared to virtual machines, Docker has a number of advantages. One of them is Docker, which is lighter than virtual machines but still provides the same functionality. In addition, as compared to virtual machines, Docker consumes less RAM and requires a faster application boot-up time. Apart from that, Docker has a slightly higher efficiency because it is freely accessible across multiple platforms. Finally, the Docker environment provides superior and consistent performance.
 
+In order to understand how Docker works, we first need to go into Docker Engine, which is one of the main part of Docker. It is a base engine installed on the host machine and being used to build and run containers(applications) using docker components. This is the image of docker engine:
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/93330469/172448562-30be5c47-0f4d-4cbf-8e52-238aca679712.jpg)
+
+![photo1654622504](https://user-images.githubusercontent.com/93330469/172448337-3842bce3-9643-4764-99c4-ab2250c4caf1.jpeg)
