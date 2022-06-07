@@ -9,7 +9,7 @@
 
 --------
 
-**1. INTRODUCTION**
+***1. INTRODUCTION***
 
 Before Docker, developers and testers in the programming industry had a difficult time transporting data between environments. This presents a number of challenges as well as drawbacks for the developer and tester. How to overcome this problem? 
 
