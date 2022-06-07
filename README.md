@@ -45,3 +45,9 @@ In order to install Docker, these are the steps and procedures that need to be d
 - Click the link to download the MSI package of the WSL update. Then, execute the package by double-clicking it.
 - After the installation completed, click the Restart Button to restart Docker and it will shoe the **Welcome Screen**.
 - The installation of Docker Desktop is completed.
+
+**2. Install PHP and Apache Web Server**
+
+- Create a directory to store the new project files. To create the file, type **docker-compose.yml** at the root of the new project.
+- Create also two directories within the docker directory i.e php and apache.
+- 
