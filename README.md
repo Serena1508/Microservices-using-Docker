@@ -29,9 +29,9 @@ The Docker Client and Server is the first component to look at while looking at 
 
 The Docker Registry, which is an open source server-side service, is the last but not least. Docker Registry is a service that hosts and distributes Docker images. Images can be placed here not only in public repositories, but also in private repositories. Here's a visual representation of the Docker Components to help understand them better:
 
-
+<div align="center">
 ![photo1654622504](https://user-images.githubusercontent.com/93330469/172448337-3842bce3-9643-4764-99c4-ab2250c4caf1.jpeg)
-
+</div>
 
 ***Installation of Docker & Procedures***
 
