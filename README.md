@@ -35,7 +35,7 @@ A PHP application requires the installation of many environments in order to run
 
 In order to install Docker, these are the steps and procedures that need to be done in a Microsoft operating system;
 
-**1. Install Docker on Windows 10**
+**1. Install Docker for macOS**
 
 - Go to the most recent version of Docker and download from the official website (https://www.docker.com/products/docker-desktop/)
 
