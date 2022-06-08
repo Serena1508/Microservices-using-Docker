@@ -37,31 +37,19 @@ In order to install Docker, these are the steps and procedures that need to be d
 
 **1. Install Docker for macOS**
 
-- Go to the most recent version of Docker and download from the official website (https://www.docker.com/products/docker-desktop/)
+- Go to Docker Desktop website and download the version of macOS. (https://www.docker.com/products/docker-desktop/)
 
-- Install Docker Desktop by using the installer downloaded by previous step and allow the installer to start the installation.
+- Once the download is completed, double-click the DMG file to start installing Docker Desktop on macOS.
 
-![1os](https://user-images.githubusercontent.com/93330469/172459804-bdaf745e-bb8f-4555-a495-e3ea18442eb4.png)
+- Then, it will show options to move the Docker to Applications.
 
-- After the installation completed, press the **close button**.
+- Drag the Docker Icon to the Applications directory.
 
-![2os](https://user-images.githubusercontent.com/93330469/172460013-7c45ee30-780c-4482-a99b-f0879564061e.png)
+- To launch the Docker Desktop on macOS, double-click the Docker Icon.
 
-- Execute the Docker Desktop using desktop shortcut created and it might show the message to install the WSL update.
+- Click **Open Button** to lauch Docker Desktop and **OK Button**. 
 
-![3os](https://user-images.githubusercontent.com/93330469/172460166-d6db5e87-47a8-417a-8803-1135772a5294.png)
-
-- Click the download link and it will open the Microsoft Page showing options to download it.
-
-![4os](https://user-images.githubusercontent.com/93330469/172460055-298e809c-4c55-43df-b9d9-d34f8b046b6d.png)
-
-- Click the link to download the MSI package of the WSL update. Then, execute the package by double-clicking it.
-- After the installation completed, click the Restart Button to restart Docker and it will show the **Welcome Screen**.
-
-![5os](https://user-images.githubusercontent.com/93330469/172460260-8c81c7c7-997b-4143-92ce-bf9d549bb5ec.png)
-
-- The installation of Docker Desktop is completed.
-
+- Enter the password and click **Install Helper Button**. After that, the installation of Docker Desktop on macOS is completed.
 
 
 **2. Install PHP and Apache Web Server**
