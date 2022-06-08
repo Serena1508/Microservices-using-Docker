@@ -35,6 +35,9 @@ A PHP application requires the installation of many environments in order to run
 
 In order to install Docker, these are the steps and procedures that need to be done in a Microsoft operating system;
 
+
+
+
 **1. Install Docker for macOS**
 
 - Go to Docker Desktop website and download the version of macOS. (https://www.docker.com/products/docker-desktop/)
@@ -50,6 +53,8 @@ In order to install Docker, these are the steps and procedures that need to be d
 - Click **Open Button** to lauch Docker Desktop and **OK Button**. 
 
 - Enter the password and click **Install Helper Button**. After that, the installation of Docker Desktop on macOS is completed.
+
+
 
 
 **2. Install PHP and Apache Web Server**
@@ -68,4 +73,35 @@ In order to install Docker, these are the steps and procedures that need to be d
 
 - After completed, run the application using command shown below;
 
-- Open the browser and enter the URL -(http://localhost/index.php). 
+- Open the browser and enter the URL (http://localhost/index.php). 
+
+- Press Ctrl + C to stop the containers.
+
+- The installation completes.
+
+
+
+
+**3. Install MySQL and PHPMyAdmin**
+
+- Update the **docker-compose.yml**
+
+- Run the command docker-compose build to build the application.
+
+- Then, run the command **docker-compose up** to launch the application.
+
+- Try to access PHPMyAdmin from the browser using URL (http://localhost:8085).
+
+- Login to PHPMyAdmin using the username as root and the root password configured in the docker-compose.yml.
+
+- Press Ctrl + C to stop the containers.
+
+- Then, install the PHP extensions to access MySQL from the PHP source files by updating the Dockerfile.
+
+- Run the build and up commands to build the application again and launch it.
+
+- Open the PHP file using the URL (http://localhost/mysql.php).
+
+- Press Ctrl + C to stop the containers.
+
+- The installation completes.
