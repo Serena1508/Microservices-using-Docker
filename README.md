@@ -55,5 +55,17 @@ In order to install Docker, these are the steps and procedures that need to be d
 **2. Install PHP and Apache Web Server**
 
 - Create a directory to store the new project files. To create the file, type **docker-compose.yml** at the root of the new project.
+
 - Create also two directories within the docker directory i.e php and apache.
-- 
+
+- Create the index.php file within the src directory.
+
+- Then, configure the Virtual Host to pass the PHP requests to PHP-FPM vial port 9000. The default configuration is shown below;
+
+- Update the Dockerfile within the Apache directory.
+
+- Now, run the command docker-compose build to build the images for PHP and Apache Web Server.
+
+- After completed, run the application using command shown below;
+
+- Open the browser and enter the URL -(http://localhost/index.php). 
