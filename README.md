@@ -57,14 +57,25 @@ In order to install Docker, these are the steps and procedures that need to be d
 
   <img width="866" alt="web page" src="https://user-images.githubusercontent.com/93330469/172763840-d63ea1a8-98d7-4614-8114-bb3bcfa3e35a.png">
 
-   
 </div>
 
 - Then, it will show options to move the Docker to Applications.
 
+<div align="center">
+
+<img width="783" alt="transfer file" src="https://user-images.githubusercontent.com/93330469/172764024-24bb3916-71b9-47eb-a2ec-ae09927347aa.png">
+
+</div>
+
 - Drag the Docker Icon to the Applications directory.
 
 - To launch the Docker Desktop on macOS, double-click the Docker Icon.
+
+<div align="center">
+
+<img width="723" alt="Screenshot 2022-06-09 at 12 27 42 PM" src="https://user-images.githubusercontent.com/93330469/172764172-3e8be7c0-a621-4737-8c4a-decc292a1894.png">
+
+  </div>
 
 - Click **Open Button** to lauch Docker Desktop and **OK Button**. 
 
