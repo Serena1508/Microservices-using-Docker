@@ -141,7 +141,13 @@ In order to install Docker, these are the steps and procedures that need to be d
 
 </div>
 
-- Open the browser and enter the URL (http://localhost/index.php). 
+- Open the browser and enter the URL (http://localhost/index.php). It supposed to look like this;
+
+<div align="center">
+  
+  <img width="783" alt="Screenshot 2022-06-09 at 1 00 06 PM" src="https://user-images.githubusercontent.com/93330469/172768013-815a9588-7f41-4f8b-8ed5-87a2cc0d435d.png">
+
+</div>
 
 - Press Ctrl + C to stop the containers.
 
