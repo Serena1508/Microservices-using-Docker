@@ -45,7 +45,7 @@ A PHP application requires the installation of many environments in order to run
 In order to install Docker, these are the steps and procedures that need to be done in a Microsoft operating system;
 
 
-
+--------------
 
 **1. Install Docker for macOS**
 
@@ -83,7 +83,7 @@ In order to install Docker, these are the steps and procedures that need to be d
 
 
 
-
+------------
 
 
 **2. Install PHP and Apache Web Server**
@@ -153,7 +153,7 @@ In order to install Docker, these are the steps and procedures that need to be d
 
 - The installation completes.
 
-
+------------
 
 
 **3. Install MySQL and PHPMyAdmin**
