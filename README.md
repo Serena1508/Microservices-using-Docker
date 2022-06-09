@@ -187,7 +187,18 @@ In order to install Docker, these are the steps and procedures that need to be d
 
 - Run the build and up commands to build the application again and launch it.
 
+<div align="center">
+  <img width="671" alt="Screenshot 2022-06-09 at 1 19 43 PM" src="https://user-images.githubusercontent.com/93330469/172770121-18d3ab37-d51a-46b8-89f6-fce2bc68f6cb.png">
+
+</div>
+
 - Open the PHP file using the URL (http://localhost/mysql.php).
+
+<div align="center">
+  
+  <img width="758" alt="Screenshot 2022-06-09 at 1 23 10 PM" src="https://user-images.githubusercontent.com/93330469/172770523-f8a42abe-827b-408f-94cb-1431d35969c4.png">
+
+</div>
 
 - Press Ctrl + C to stop the containers.
 
