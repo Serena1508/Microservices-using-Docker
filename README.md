@@ -127,7 +127,19 @@ In order to install Docker, these are the steps and procedures that need to be d
 
 - Now, run the command docker-compose build to build the images for PHP and Apache Web Server.
 
+<div align="center">
+  
+ <img width="562" alt="Screenshot 2022-06-09 at 12 53 18 PM" src="https://user-images.githubusercontent.com/93330469/172767381-561950c8-6eaf-424e-b1b9-1d36b63e5d56.png">
+
+</div>
+
 - After completed, run the application using command shown below;
+
+<div align="center">
+  
+  <img width="564" alt="Screenshot 2022-06-09 at 12 54 32 PM" src="https://user-images.githubusercontent.com/93330469/172767401-5eaa727f-bb07-4ca0-a733-bdce70654f57.png">
+
+</div>
 
 - Open the browser and enter the URL (http://localhost/index.php). 
 
