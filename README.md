@@ -192,11 +192,10 @@ In order to install Docker, these are the steps and procedures that need to be d
 
 </div>
 
-- Open the PHP file using the URL (http://localhost/mysql.php).
+- Open the PHP file using the URL (http://localhost/mysql.php). It supposed to look like this;
 
 <div align="center">
-  
-  <img width="758" alt="Screenshot 2022-06-09 at 1 23 10 PM" src="https://user-images.githubusercontent.com/93330469/172770523-f8a42abe-827b-408f-94cb-1431d35969c4.png">
+ <img width="877" alt="Screenshot 2022-06-09 at 1 24 34 PM" src="https://user-images.githubusercontent.com/93330469/172770707-16e7198b-11c6-4c9b-b80b-7edf65a46ae1.png">
 
 </div>
 
