@@ -125,7 +125,7 @@ In order to install Docker, these are the steps and procedures that need to be d
   
 </div>
 
-- Now, run the command docker-compose build to build the images for PHP and Apache Web Server.
+- Now, run the command **docker-compose build** to build the images for PHP and Apache Web Server.
 
 <div align="center">
   
@@ -133,7 +133,7 @@ In order to install Docker, these are the steps and procedures that need to be d
 
 </div>
 
-- After completed, run the application using command shown below;
+- After completed, run the **docker-compose up** using command shown below;
 
 <div align="center">
   
@@ -160,17 +160,25 @@ In order to install Docker, these are the steps and procedures that need to be d
 
 - Update the **docker-compose.yml**
 
-- Run the command docker-compose build to build the application.
+<div align="center">
+  
+  <img width="619" alt="update yml" src="https://user-images.githubusercontent.com/93330469/172769295-79801ae5-e857-48aa-ad3d-57572c0a8a1f.png">
 
-- Then, run the command **docker-compose up** to launch the application.
+</div>
+
+- Run the command **docker-compose build** and **docker-compose up** as shown before.
 
 - Try to access PHPMyAdmin from the browser using URL (http://localhost:8085).
 
 - Login to PHPMyAdmin using the username as root and the root password configured in the docker-compose.yml.
 
-- Press Ctrl + C to stop the containers.
-
 - Then, install the PHP extensions to access MySQL from the PHP source files by updating the Dockerfile.
+
+<div align="center">
+  <img width="675" alt="dcokerfile (php)" src="https://user-images.githubusercontent.com/93330469/172769357-f30ad4f9-91aa-4e32-9a1d-fcfe91224857.png">
+
+  
+</div>
 
 - Run the build and up commands to build the application again and launch it.
 
