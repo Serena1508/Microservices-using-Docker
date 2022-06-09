@@ -90,13 +90,40 @@ In order to install Docker, these are the steps and procedures that need to be d
 
 - Create a directory to store the new project files. To create the file, type **docker-compose.yml** at the root of the new project.
 
+<div align="center">
+  <img width="692" alt="yml file" src="https://user-images.githubusercontent.com/93330469/172764476-cf663aab-06a5-4032-a7d4-a674053df3a8.png">
+
+</div>
+
 - Create also two directories within the docker directory i.e php and apache.
+
+<div align="center">
+  <img width="693" alt="dockerfile (php)" src="https://user-images.githubusercontent.com/93330469/172764516-eb31758e-ce39-45f5-9626-0f9789d49f80.png">
+<img width="682" alt="dockerfile (apache)" src="https://user-images.githubusercontent.com/93330469/172764530-23118c2b-accb-43ec-a0f3-97790ecf9128.png">
+
+</div>
 
 - Create the index.php file within the src directory.
 
+<div align="center">
+  <img width="690" alt="indexphp (src)" src="https://user-images.githubusercontent.com/93330469/172764551-21983557-8d43-48db-9504-897b00543191.png">
+
+</div>
+
 - Then, configure the Virtual Host to pass the PHP requests to PHP-FPM vial port 9000. The default configuration is shown below;
 
+
+<div align="center">
+<img width="693" alt="virtual host" src="https://user-images.githubusercontent.com/93330469/172764617-28916858-df59-43d7-8677-08078403cd0b.png">
+  
+</div>
+
 - Update the Dockerfile within the Apache directory.
+
+<div align="center">
+<img width="689" alt="update dockerfile (apache)" src="https://user-images.githubusercontent.com/93330469/172764650-38382cc7-5c77-467f-8032-cc52c7dc9b6e.png">
+  
+</div>
 
 - Now, run the command docker-compose build to build the images for PHP and Apache Web Server.
 
