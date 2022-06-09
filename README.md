@@ -53,6 +53,13 @@ In order to install Docker, these are the steps and procedures that need to be d
 
 - Once the download is completed, double-click the DMG file to start installing Docker Desktop on macOS.
 
+<div align="center">
+
+  <img width="866" alt="web page" src="https://user-images.githubusercontent.com/93330469/172763840-d63ea1a8-98d7-4614-8114-bb3bcfa3e35a.png">
+
+   
+</div>
+
 - Then, it will show options to move the Docker to Applications.
 
 - Drag the Docker Icon to the Applications directory.
