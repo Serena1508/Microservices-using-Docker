@@ -205,3 +205,9 @@ In order to install Docker, these are the steps and procedures that need to be d
 - Press Ctrl + C to stop the containers.
 
 - The installation completes.
+
+---------
+
+***CONCLUSION***
+
+By right, now you will be able to install and connect **PHP, Apache, PHPMyAdmin** as well as **MySQL**. Hopefully, this tutorial will help you understand better about Docker! Don't forget to try on your own and create your own project, thank you :)
