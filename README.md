@@ -181,7 +181,9 @@ In order to install Docker, these are the steps and procedures that need to be d
 - Then, install the PHP extensions to access MySQL from the PHP source files by updating the Dockerfile.
 
 <div align="center">
-  <img width="675" alt="dcokerfile (php)" src="https://user-images.githubusercontent.com/93330469/172769357-f30ad4f9-91aa-4e32-9a1d-fcfe91224857.png">
+
+  <img width="674" alt="Screenshot 2022-06-09 at 1 28 30 PM" src="https://user-images.githubusercontent.com/93330469/172771117-ce970f8f-16c9-43b8-93f7-d522e85b4ebc.png">
+
   
 </div>
 
