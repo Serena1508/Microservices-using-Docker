@@ -170,13 +170,18 @@ In order to install Docker, these are the steps and procedures that need to be d
 
 - Try to access PHPMyAdmin from the browser using URL (http://localhost:8085).
 
+<div align="center">
+  
+  <img width="388" alt="Screenshot 2022-06-09 at 1 16 11 PM" src="https://user-images.githubusercontent.com/93330469/172769824-547552fd-b345-47f2-9f69-69c61ad153b2.png">
+
+</div>
+
 - Login to PHPMyAdmin using the username as root and the root password configured in the docker-compose.yml.
 
 - Then, install the PHP extensions to access MySQL from the PHP source files by updating the Dockerfile.
 
 <div align="center">
   <img width="675" alt="dcokerfile (php)" src="https://user-images.githubusercontent.com/93330469/172769357-f30ad4f9-91aa-4e32-9a1d-fcfe91224857.png">
-
   
 </div>
 
